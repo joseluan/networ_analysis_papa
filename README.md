@@ -14,15 +14,15 @@ Buscando links da wikipedia a partir da pagina do papa Francisco e assim gerar u
 ### 1º Instale as bibliotecas necessárias no arquivo requeriments
 
 ### 2º Execute com python o arquivo generate_proxies.py para gerar os proxyes retirados do site http://www.freeproxylists.net/
-```python
-### $python generate_proxies.py
+```
+python generate_proxies.py
 ```
 ### 3º execute com python o arquivo generate_graph.py para o crawler ir varrendo as paginas da wikipedia e ir salvando as citações no mongodb
-```python
-### $python generate_graph.py
+```
+python generate_graph.py
 ```
 ### 4º execute com python o arquivo export_graph.py para gerar o arquivo papas.graphml
-```python
-### $python export_graph.py
+```
+python export_graph.py
 ```
 ### Pronto você tem uma rede das paginas wikipedia, agora é apenas tratar esses dados, por exemplo com o Gephi
