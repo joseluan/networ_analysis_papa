@@ -8,14 +8,14 @@
     "text": "José Luan"
   },
   "text": {
-    "more": "",
-    "intro": "Network analisys project of Wikipedia Pages",
-    "title": "Wikipedia Pages"
+    "more": "https://medium.com/@joseluan3301/analise-de-rede-dos-papas-a-partir-da-wikip%C3%A9dia-634f9d19ba6e",
+    "intro": "Analise de rede dos papas a partir da Wikipédia<br><a href=\"https://medium.com/@joseluan3301/analise-de-rede-dos-papas-a-partir-da-wikip%C3%A9dia-634f9d19ba6e\" target=\"_blank\">Post no Medium<a/>",
+    "title": "Rede de paginas com o tema Papa"
   },
   "legend": {
-    "edgeLabel": "Citation",
-    "colorLabel": "Community",
-    "nodeLabel": "Wikipedia Page"
+    "edgeLabel": "Citação",
+    "colorLabel": "Comunidade",
+    "nodeLabel": "Página da Wikipedia"
   },
   "features": {
     "search": true,
